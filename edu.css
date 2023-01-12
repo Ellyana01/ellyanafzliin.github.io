@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	background-color: white;
+	background-image: url(https://img.freepik.com/premium-photo/colorful-pencils-notebook-lined-paper-background-with-copy-space-back-school-education-learning-concept_206881-119.jpg?w=2000)
+}
+header {
+	color: black;
+	padding: 15px 15 px 0 15px;
+}
+
+header h1 {
+	margin: 0;
+	display: inline;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+nav ul li{
+	background: black;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 10px;
+}
+
+nav ul li a {
+	color: white;
+}
